@@ -13,7 +13,9 @@ public class BaseballUI {
 		scan = new Scanner(System.in);
 		System.out.println("숫자 야구 게임을 시작합니다.");
 		System.out.println("세자리 숫자가 일치하면 Home Run!");
-		System.out.println("숫자와 자리까지 같으면 Strike, 숫자만 맞추면 Ball, 모두 다르면 Out 입니다.");
+		System.out.println("숫자와 자리까지 같으면 Strike,");
+		System.out.println("숫자만 맞추면 Ball,");
+		System.out.println("모두 다르면 Out 입니다.");
 		System.out.println();
 		
 		while(true) {
